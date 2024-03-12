@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Assignment-II</string>
+    <string name="correct_guess">Correct guess: %s</string>
+    <string name="incorrect_guess">Incorrect guess: %s</string>
 </resources>
